@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="152px" height="37px" viewBox="0 0 152 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 3</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#0F3E56" offset="0%"></stop>
+            <stop stop-color="#187AB7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-203.000000, -40.000000)">
+            <g id="编组-3" transform="translate(203.000000, 40.000000)">
+                <path d="M6.6482471,-2.48689958e-14 L125.68119,-2.48689958e-14 L125.68119,-2.48689958e-14 L149.213499,27.7178186 C150.606721,29.3588427 150.788695,31.7089853 149.664698,33.5449206 C148.494465,35.4563764 146.414482,36.6217993 144.173253,36.6217993 L26.0815695,36.6217993 L26.0815695,36.6217993 L2.71938156,10.7139286 C1.03946017,8.85095297 0.49452891,6.22693657 1.29376078,3.84911352 C2.06676678,1.54931601 4.22201404,-2.4423304e-14 6.6482471,-2.48689958e-14 Z" id="路径-2" fill="url(#linearGradient-1)"></path>
+                <text id="数据概览" font-family="PingFangSC-Medium, PingFang SC" font-size="20" font-weight="400" letter-spacing="0.542857143" fill="#FFFFFF">
+                    <tspan x="35.4142857" y="25">数据概览</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

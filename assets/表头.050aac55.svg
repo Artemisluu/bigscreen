@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="70px" viewBox="0 0 1920 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 4</title>
+    <defs>
+        <linearGradient x1="2.02267181%" y1="50%" x2="110.648878%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#3082A4" offset="0%"></stop>
+            <stop stop-color="#141920" stop-opacity="0.672866074" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.02267181%" y1="50%" x2="110.648878%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#3082A4" offset="0%"></stop>
+            <stop stop-color="#141920" stop-opacity="0.672866074" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#083049" offset="0%"></stop>
+            <stop stop-color="#061C33" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-4" points="637.079778 0 629 18.716352 677.417965 67.5798576 1245.18376 67.5798576 1290.89479 18.716352 1281.16643 0"></polygon>
+        <filter x="-0.2%" y="-1.5%" width="100.3%" height="105.9%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.325490196   0 0 0 0 0.466666667   0 0 0 0 0.552941176  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-6" font-family="PingFangSC-Medium, PingFang SC" font-size="36" font-weight="400" letter-spacing="0.977142857" fill="#FFFFFF">
+            <tspan x="720.148571" y="47">杭州市智慧交通综合服务平台</tspan>
+        </text>
+        <filter x="-1.8%" y="-13.0%" width="103.5%" height="134.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.608163824   0 0 0 0 0.975876836   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-4" transform="translate(0.000000, -0.000000)">
+            <rect id="矩形" fill="url(#linearGradient-1)" x="1262" y="5" width="658" height="19"></rect>
+            <rect id="矩形备份" fill="url(#linearGradient-2)" transform="translate(339.500000, 14.500000) scale(-1, 1) translate(-339.500000, -14.500000) " x="0" y="5" width="679" height="19"></rect>
+            <g id="路径">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+            </g>
+            <g id="杭州市智慧交通综合服务平台" fill-rule="nonzero" fill="#FFFFFF" fill-opacity="1">
+                <use filter="url(#filter-7)" xlink:href="#text-6"></use>
+                <use xlink:href="#text-6"></use>
+            </g>
+        </g>
+    </g>
+</svg>
